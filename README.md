@@ -25,7 +25,7 @@ Si te interesa algún sistema o mecánica en particular para fines educativos o 
 
 ---
 
-### 🎥 Galería de Demostraciones
+### 🎥 Galería de Demostraciones (solo visible a través de web)
 
 | | |
 | :---: | :---: |
