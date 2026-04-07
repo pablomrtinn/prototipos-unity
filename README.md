@@ -11,6 +11,15 @@ Esta sección muestra una colección de prototipos y mecánicas desarrolladas de
 
 Cada video representa un reto técnico superado, desde la gestión de animaciones hasta la integración de assets y efectos visuales.
 
+A continuación, enseño los siguientes juegos:
+- Un juego speedrun desarrollado en Verano de 2025
+- Prototipo de juego odnde al hacer una vuelta 360 le quitas una vida al enemigo
+- Juego de los patos (arcade para android)
+- Prototipo de juego de básquet.
+
+> [!IMPORTANT]
+> **Nota sobre disponibilidad:** Ninguno de estos juegos ha sido publicado oficialmente en plataformas o tiendas. Son proyectos personales distribuidos exclusivamente de forma privada entre amigos, familiares y conocidos.
+
 ---
 
 ### 🎥 Galería de Demostraciones
