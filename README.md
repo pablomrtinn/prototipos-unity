@@ -13,7 +13,7 @@ Cada video representa un reto técnico superado, desde la gestión de animacione
 
 A continuación, enseño los siguientes juegos:
 - Un juego speedrun desarrollado en Verano de 2025
-- Prototipo de juego odnde al hacer una vuelta 360 le quitas una vida al enemigo
+- Prototipo de juego donde al rodearle completamente le quitas una vida al enemigo
 - Juego de los patos (arcade para android)
 - Prototipo de juego de básquet.
 
