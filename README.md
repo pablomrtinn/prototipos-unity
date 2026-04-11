@@ -20,9 +20,9 @@ A continuación, enseño los siguientes juegos:
 > [!IMPORTANT]
 > **Nota sobre disponibilidad:** Ninguno de estos juegos ha sido publicado oficialmente en plataformas o tiendas. Son proyectos personales distribuidos exclusivamente de forma privada entre amigos, familiares y conocidos.
 
-* No se permite la copia, distribución o uso comercial de estos archivos sin mi autorización/aviso previo :)
+> [!IMPORTANT]
+> No se permite la copia, distribución o uso comercial de estos archivos sin mi autorización/aviso previo :)
 Si te interesa algún sistema o mecánica en particular para fines educativos o de colaboración, ponte en contacto conmigo y estaré encantado de hablarlo!
-
 ---
 
 ### 🎥 Galería de Demostraciones (solo visible a través de web)
